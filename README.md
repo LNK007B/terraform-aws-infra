@@ -19,10 +19,10 @@ and an EC2 web server on AWS using Terraform.
 - Output of the server's public IP
 
 ## How to Run
-terraform init
-terraform plan
-terraform apply
-terraform destroy
+- terraform init
+- terraform plan
+- terraform apply
+- terraform destroy
 
 ## What I Learned
 - Infrastructure as Code and the init, plan, apply, destroy workflow
